@@ -121,7 +121,7 @@ export function SideBar(props: { className?: string }) {
           Istime's ChatGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          welcome to Istime's ChatGPT
+          Welcome to Istime's ChatGPT
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
