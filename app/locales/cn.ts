@@ -266,9 +266,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "💬欢迎来到Istime's ChatGPT公益站点，点击聊天框开始和ChatGPT对话
-😎使用**面具**功能可以给ChatGPT增加Prompt，回答更加精确
-✨如需注册自己的ChatGPT账号请访问[www.istime.top](https://www.istime.top)，内含教程和魔法✨",
+    BotHello: "💬欢迎来到Istime's ChatGPT公益站点，点击聊天框开始和ChatGPT对话😎使用**面具**功能可以给ChatGPT增加Prompt，回答更加精确✨如需注册自己的ChatGPT账号请访问[www.istime.top](https://www.istime.top)，内含教程和魔法✨",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
