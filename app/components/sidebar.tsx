@@ -121,7 +121,7 @@ export function SideBar(props: { className?: string }) {
           Istime&#39;s ChatGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          欢迎来到Istime&#39;s ChatGPT公益站点，注册自己的ChatGPT账号请访问www&#46;istime&#46;top查看教程和魔法，安卓用户直接访问app&#46;istime&#46;top安装软件
+          欢迎来到Istime&#39;s ChatGPT公益站点
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
